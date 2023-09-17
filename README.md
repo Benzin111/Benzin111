@@ -1,4 +1,3 @@
-![image](header.png)
 
 <h1>About me</h1>
 
