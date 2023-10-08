@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Benzin111/Benzin111/output/snake.svg" alt="Snake animation" />
+<img src="github-user-contribution.svg"/>
 
 ###
 
