@@ -10,7 +10,7 @@
 
 <p>PYTHON = 63%</p>
 <p>C# = 20%</p>
-<p>HTML = 30%</p>
+<p>HTML = 18%</p>
 
 
 <h2>STATISTICS</h2>
