@@ -1,5 +1,6 @@
 <h2 align="center">私はベンジンです</h2>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=31&pause=1000&color=F70E6A&width=435&lines=%E3%82%84%E3%82%8C%E3%82%84%E3%82%8C%E3%81%A0%E3%81%9C" alt="Typing SVG" /></a>
 ###
 
 <img src="github-user-contribution.svg"/>
