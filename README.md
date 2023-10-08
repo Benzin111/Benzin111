@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left">やれやれだぜ</p>
-
-###
-
 <div align="right">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="31" alt="python logo"  />
   <img width="12" />
@@ -22,13 +18,14 @@
 
 ###
 
+###
 <div align="left">
-  <img height="200" src="https://tenor.com/ru/view/uruka-takemoto-gif-3949439705449749893"  />
+  <img align= left src="https://media.tenor.com/Ns86fLEn3YUAAAAC/uruka-takemoto.gif">
 </div>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
