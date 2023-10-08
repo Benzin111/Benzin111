@@ -1,19 +1,36 @@
-![image](header.png)
+<h2 align="center">私はベンジンです</h2>
 
-<h1>About me</h1>
+###
 
-![image](text.gif)
+<img src="https://raw.githubusercontent.com/Benzin111/Benzin111/output/snake.svg" alt="Snake animation" />
 
-<p>I'm benz1n <br> Just school programmer</p>
+###
 
-<h1>My knowings program language</h1>
+<p align="left">やれやれだぜ</p>
 
-<p>PYTHON = 63%</p>
-<p>C# = 20%</p>
-<p>HTML = 18%</p>
+###
 
+<div align="right">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="31" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="31" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="31" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo"  />
+</div>
 
-<h2>STATISTICS</h2>
+###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benzin111&show_icons=true&theme=dracula)](https://github.com/Benzin111/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benzin111&layout=compact)](https://github.com/Benzin111/github-readme-stats)
+<div align="left">
+  <img height="200" src="https://tenor.com/ru/view/uruka-takemoto-gif-3949439705449749893"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
