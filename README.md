@@ -1,6 +1,6 @@
 <h2 align="center">私は一雪「かずゆき」です</h2>
 <div align="center">
-  <img src= "https://www.codewars.com/users/Benz1n_/badges/small">
+  <img src= "https://www.codewars.com/users/kazuyuki/badges/small">
 </div>
   
 <div align="center">
