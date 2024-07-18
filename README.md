@@ -1,4 +1,4 @@
-<h2 align="center">おれは一雪「かずゆき」</h2>
+<h2 align="center">私は一雪「かずゆき」</h2>
 <div align="center">
   <img src= "https://www.codewars.com/users/Benz1n_/badges/small">
 </div>
