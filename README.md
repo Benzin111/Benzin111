@@ -7,7 +7,6 @@
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kazuyuki07" height="150"/>
   <img src= "https://github-readme-stats.vercel.app/api?username=kazuyuki07&show_icons=true&theme=merko" height="150"/>
 </div>
-<img src="github-user-contribution.svg"/>
 
 <div align="right">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="31" alt="python logo"  />
